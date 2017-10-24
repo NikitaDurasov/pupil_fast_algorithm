@@ -1,4 +1,4 @@
-# Fast algorithm for determining pupil and iris boundaries
+# Algorithm for determining pupil and iris boundaries
 
 The project is dedicated to the creation and optimization of the algorithm for the rapid detection of the pupil in the user's photo.
 The work is based on the publication
